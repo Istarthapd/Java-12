@@ -5,7 +5,7 @@ public class Test1 {
         StudentBean student = new StudentBean();
 
         // Set properties using setters
-        student.setName("Rithesh B R");
+        student.setName("Istartha P D");
         student.setId(1);
         student.setCourse("Java");
 
